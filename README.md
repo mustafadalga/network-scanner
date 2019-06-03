@@ -16,11 +16,6 @@
 sudo pip install termcolor
 ```
 
- * Windows için kurulum
-```
-python -m pip install termcolor
-```
-
 * Kullanımı
 ```
 python network_scanner.py --hedef    IPAraligi
